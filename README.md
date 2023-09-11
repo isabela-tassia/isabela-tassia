@@ -12,9 +12,7 @@ Sou formada como Web Developer Fullstack pela Ironhack, uma das mais conceituada
 <div align='center'>
   <img width='300' height='300' align='center' src='https://camo.githubusercontent.com/d8a7b68700e343761bb04aee7c848aade21227cdae9e9ce9f1dac0d7c88df23d/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737'>
 </div>
-
-
-
+<p></p>
 
 Aqui estão algumas das linguagens que eu já tive contato e fiz projetos:
 
@@ -33,6 +31,9 @@ Minhas redes sociais:
 <a href="https://www.linkedin.com/in/isabela-tassia/"><img width='90' height='30' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/isabela-tassia"><img width='90' height='30' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
+<p></p>
+<div><a href="https://github.com/isabela-tassia">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-tassia&layout=compact&langs_count=7&theme=radical"/></div>
 <!--
 **isabela-tassia/isabela-tassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
